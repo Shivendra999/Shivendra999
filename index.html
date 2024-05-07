@@ -73,7 +73,7 @@
         <div class="rectangle-parent">
           <div class="frame-child"></div>
           <div class="project-wrapper">
-            <div class="finance">Finance</div>
+            <div class="finance"id="financeText">Finance</div>
           </div>
           <div class="frame-item"></div>
         </div>
@@ -91,7 +91,14 @@
       var projectText = document.getElementById("projectText");
       if (projectText) {
         projectText.addEventListener("click", function (e) {
-          window.location.href = "./Component.html";
+          window.location.href = "./Frame336.html";
+        });
+      }
+
+      var financeText = document.getElementById("financeText");
+      if (financeText) {
+        financeText.addEventListener("click", function (e) {
+          window.location.href = "./Frame330.html";
         });
       }
       
