@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Imprima:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Impact:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Joti One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto Mono:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Darker Grotesque:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Segoe UI Variable Static Text:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Segoe Fluent Icons:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Segoe UI Variable Static Small:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Source Code Pro:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home">
+      <div class="ilanceio-parent">
+        <div class="ilanceio">ILance.io</div>
+        <div class="home-parent">
+          <div class="contact-us">home</div>
+          <div class="contact-us">contact us</div>
+          <div class="contact-us">about us</div>
+        </div>
+      </div>
+      <div class="welcome-back-shivendra">Welcome Back Shivendra!</div>
+      <div class="frame-parent" id="frameContainer1">
+        <div class="rectangle-parent">
+          <div class="frame-child"></div>
+          <div class="project-wrapper">
+            <div class="project" id="projectText">Project</div>
+          </div>
+          <div class="frame-item"></div>
+        </div>
+        <div class="rectangle-parent">
+          <div class="frame-child"></div>
+          <div class="project-wrapper">
+            <div class="finance">Finance</div>
+          </div>
+          <div class="frame-item"></div>
+        </div>
+        <div class="rectangle-parent">
+          <div class="frame-child"></div>
+          <div class="project-wrapper">
+            <div class="project" id="networkText">Network</div>
+          </div>
+          <div class="frame-item"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var projectText = document.getElementById("projectText");
+      if (projectText) {
+        projectText.addEventListener("click", function (e) {
+          window.location.href = "./Component.html";
+        });
+      }
+      
+      var networkText = document.getElementById("networkText");
+      if (networkText) {
+        networkText.addEventListener("click", function (e) {
+          window.location.href = "./Frame325.html";
+        });
+      }
+      
+      var frameContainer1 = document.getElementById("frameContainer1");
+      if (frameContainer1) {
+        frameContainer1.addEventListener("click", function (e) {
+          window.location.href = "./Component.html";
+        });
+      }
+      </script>
+  </body>
+</html>

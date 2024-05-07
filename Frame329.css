@@ -1,0 +1,375 @@
+.b1-child8,
+.b1-child9 {
+  position: absolute;
+  left: 0;
+  opacity: 0.99;
+}
+.b1-child8 {
+  top: 0;
+  width: 94.563rem;
+  height: 5rem;
+}
+.b1-child9 {
+  top: 57.938rem;
+  width: 94.625rem;
+  height: 3.438rem;
+}
+.b1-child10,
+.b1-child11 {
+  position: absolute;
+  top: 0;
+  width: 3.438rem;
+  height: 61.375rem;
+  object-fit: contain;
+  opacity: 0.99;
+}
+.b1-child10 {
+  left: 0;
+}
+.b1-child11 {
+  left: 91.188rem;
+}
+.file-add-in-lc5,
+.question-mark-cr-fr9 {
+  position: absolute;
+  overflow: hidden;
+  opacity: 0.99;
+}
+.question-mark-cr-fr9 {
+  top: 57.938rem;
+  left: 0.188rem;
+  width: 3.25rem;
+  height: 3.25rem;
+}
+.file-add-in-lc5 {
+  top: 5.25rem;
+  left: 0;
+  width: 3.313rem;
+  height: 3.313rem;
+}
+.search-icon5,
+.user-icon5 {
+  position: absolute;
+  width: 3.25rem;
+  height: 3.25rem;
+  opacity: 0.99;
+}
+.search-icon5 {
+  top: 12.688rem;
+  left: 0.063rem;
+  overflow: hidden;
+}
+.user-icon5 {
+  top: 5rem;
+  left: 91.188rem;
+}
+.settings-icon3 {
+  top: 57.625rem;
+  left: 91.563rem;
+  width: 2.963rem;
+  height: 3.069rem;
+}
+.dashboard5,
+.filter-icon5,
+.settings-icon3 {
+  position: absolute;
+  opacity: 0.99;
+}
+.filter-icon5 {
+  top: 9.438rem;
+  left: 0.188rem;
+  width: 2.688rem;
+  height: 3.063rem;
+  overflow: hidden;
+}
+.dashboard5 {
+  top: 0.188rem;
+  left: 14rem;
+}
+.finance6 {
+  top: 0.188rem;
+  left: 42.813rem;
+}
+.client-form,
+.finance6,
+.networking5 {
+  position: absolute;
+  opacity: 0.99;
+}
+.networking5 {
+  top: 0.188rem;
+  left: 68.625rem;
+}
+.client-form {
+  top: 4.5rem;
+  left: calc(50% - 179px);
+  font-size: var(--font-size-41xl);
+  letter-spacing: -0.02em;
+  font-family: var(--font-darker-grotesque);
+  color: var(--color-black);
+}
+.submit1 {
+  position: relative;
+  letter-spacing: -0.02em;
+  cursor: pointer;
+}
+.submit-container {
+  position: absolute;
+  top: 51.063rem;
+  left: calc(50% - 80px);
+  box-shadow: 8px 9px 9px rgba(0, 0, 0, 0.8);
+  border-radius: var(--br-12xl);
+  background-color: var(--color-limegreen-200);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  opacity: 0.99;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  font-family: var(--font-darker-grotesque);
+}
+.client-name {
+  top: 0;
+  left: 2.688rem;
+}
+.client-name,
+.contact-person,
+.email {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.contact-person {
+  top: 3.25rem;
+  left: 0;
+}
+.email {
+  top: 6.5rem;
+  left: 8.188rem;
+}
+.address3,
+.method,
+.payment-terms,
+.phone {
+  position: absolute;
+  top: 9.75rem;
+  left: 7.375rem;
+  letter-spacing: -0.02em;
+}
+.address3,
+.method,
+.payment-terms {
+  top: 13rem;
+  left: 5.688rem;
+}
+.method,
+.payment-terms {
+  top: 19.75rem;
+  left: 0.313rem;
+}
+.method {
+  top: 23rem;
+  left: 6.188rem;
+}
+.currency,
+.description,
+.project-title,
+.rate {
+  position: absolute;
+  top: 26.25rem;
+  left: 2.813rem;
+  letter-spacing: -0.02em;
+}
+.currency,
+.description,
+.rate {
+  top: 29.5rem;
+  left: 3.125rem;
+}
+.currency,
+.rate {
+  top: 32.75rem;
+  left: 4.875rem;
+}
+.rate {
+  top: 36rem;
+  left: 8.688rem;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs-1);
+  background-color: var(--color-gainsboro-300);
+  width: 25.625rem;
+  height: 2.869rem;
+}
+.write-client-name {
+  position: absolute;
+  top: 0.25rem;
+  left: 1.438rem;
+  letter-spacing: -0.02em;
+}
+.rectangle-parent3,
+.rectangle-parent4,
+.rectangle-parent5,
+.rectangle-parent6,
+.rectangle-parent7,
+.rectangle-parent8,
+.rectangle-parent9 {
+  position: absolute;
+  top: 0.125rem;
+  left: 14.063rem;
+  width: 25.625rem;
+  height: 2.869rem;
+  font-size: var(--font-size-6xl-9);
+  color: var(--color-gray-100);
+}
+.rectangle-parent4,
+.rectangle-parent5,
+.rectangle-parent6,
+.rectangle-parent7,
+.rectangle-parent8,
+.rectangle-parent9 {
+  top: 3.25rem;
+}
+.rectangle-parent5,
+.rectangle-parent6,
+.rectangle-parent7,
+.rectangle-parent8,
+.rectangle-parent9 {
+  top: 6.375rem;
+}
+.rectangle-parent6,
+.rectangle-parent7,
+.rectangle-parent8,
+.rectangle-parent9 {
+  top: 9.5rem;
+}
+.rectangle-parent7,
+.rectangle-parent8,
+.rectangle-parent9 {
+  top: 26.25rem;
+}
+.rectangle-parent8,
+.rectangle-parent9 {
+  top: 29.5rem;
+}
+.rectangle-parent9 {
+  top: 35.938rem;
+}
+.group-child11,
+.rectangle-parent10 {
+  position: absolute;
+  width: 25.625rem;
+  height: 6.813rem;
+}
+.group-child11 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs-1);
+  background-color: var(--color-gainsboro-300);
+}
+.rectangle-parent10 {
+  top: 12.625rem;
+  left: 14.063rem;
+  font-size: var(--font-size-6xl-9);
+  color: var(--color-gray-100);
+}
+.select-terms {
+  position: absolute;
+  top: 0.25rem;
+  left: 1.25rem;
+  letter-spacing: -0.02em;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25.625rem;
+  height: 2.869rem;
+}
+.polygon-icon {
+  position: absolute;
+  top: 0.938rem;
+  left: 23.375rem;
+  width: 1.481rem;
+  height: 1.156rem;
+  object-fit: contain;
+}
+.group-parent2,
+.group-parent3,
+.group-parent4 {
+  position: absolute;
+  top: 19.75rem;
+  left: 14.063rem;
+  width: 25.625rem;
+  height: 2.869rem;
+  font-size: var(--font-size-6xl-9);
+  color: var(--color-gray-100);
+}
+.group-parent3,
+.group-parent4 {
+  top: 32.688rem;
+}
+.group-parent4 {
+  top: 22.938rem;
+}
+.b14,
+.client-name-parent {
+  position: absolute;
+  opacity: 0.99;
+}
+.client-name-parent {
+  top: 11.188rem;
+  left: 27.438rem;
+  width: 39.688rem;
+  height: 39rem;
+  font-size: var(--font-size-16xl-1);
+  color: var(--color-black);
+  font-family: var(--font-darker-grotesque);
+}
+.b14 {
+  top: 0;
+  left: 0;
+  background-color: var(--dark-fill-color-text-primary);
+  width: 94.5rem;
+  height: 61.375rem;
+  overflow: hidden;
+}
+.b1-child12 {
+  position: absolute;
+  top: 3.5rem;
+  left: 42.75rem;
+  background-color: var(--color-gainsboro-300);
+  width: 10.5rem;
+  height: 0.313rem;
+}
+.b13 {
+  opacity: 0.99;
+}
+.b1-wrapper,
+.b13,
+.home-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 94.5rem;
+  height: 61.375rem;
+}
+.home-icon5 {
+  width: 3.75rem;
+  height: 3.75rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.group-parent1 {
+  width: 100%;
+  position: relative;
+  height: 61.375rem;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--dark-fill-color-text-primary);
+  font-family: var(--font-roboto-mono);
+}

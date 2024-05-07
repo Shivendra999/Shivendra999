@@ -1,0 +1,116 @@
+.ilanceio {
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.contact-us,
+.ilanceio {
+  position: relative;
+}
+.home-parent,
+.ilanceio-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.home-parent {
+  width: 42.25rem;
+  gap: 3.125rem;
+  font-size: var(--font-size-28xl);
+  font-family: var(--font-impact);
+}
+.ilanceio-parent {
+  position: absolute;
+  top: 0;
+  left: 3.125rem;
+  gap: 24.687rem;
+}
+.welcome-back-shivendra {
+  position: absolute;
+  top: 12.75rem;
+  left: calc(50% - 389px);
+  font-size: 4.375rem;
+}
+.frame-child {
+  width: 17.5rem;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-300);
+  height: 18.75rem;
+  z-index: 0;
+}
+.project {
+  position: relative;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.2)
+    ),
+    #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+.project-wrapper {
+  border-radius: var(--br-5xl);
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  z-index: 1;
+}
+.frame-item {
+  width: 8.563rem;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 130.5px);
+  left: calc(50% - 68px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background: linear-gradient(rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.2)),
+    #d9d9d9;
+  height: 8.563rem;
+  z-index: 2;
+}
+.rectangle-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-24xl);
+}
+.finance {
+  position: relative;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.2)
+    ),
+    #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.frame-parent {
+  position: absolute;
+  top: 26.188rem;
+  left: calc(50% - 612px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 12rem;
+  cursor: pointer;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-joti-one);
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--dark-fill-color-text-primary);
+  height: 61.375rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-71xl);
+  color: var(--color-black);
+  font-family: var(--font-imprima);
+}

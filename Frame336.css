@@ -1,0 +1,345 @@
+.a1-child2,
+.a1-child3 {
+  position: absolute;
+  left: 0;
+}
+.a1-child2 {
+  top: 0;
+  width: 94.563rem;
+  height: 5rem;
+}
+.a1-child3 {
+  top: 57.938rem;
+  width: 94.625rem;
+  height: 3.438rem;
+}
+.a1-child4,
+.a1-child5 {
+  position: absolute;
+  top: 0;
+  width: 3.438rem;
+  height: 61.375rem;
+  object-fit: contain;
+}
+.a1-child4 {
+  left: 0;
+}
+.a1-child5 {
+  left: 91.188rem;
+}
+.group-child32 {
+  position: absolute;
+  top: 0.331rem;
+  left: 0;
+  border-radius: 18.75px;
+  background-color: var(--color-gainsboro-300);
+  width: 25.031rem;
+  height: 27.238rem;
+}
+.icons7 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons6 {
+  width: 2.813rem;
+  border-radius: var(--br-53xl);
+  background-color: var(--status-success);
+  height: 2.813rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-10xs-3);
+  box-sizing: border-box;
+}
+.b10,
+.text9 {
+  position: relative;
+  line-height: 1.969rem;
+}
+.text9 {
+  letter-spacing: 0.56px;
+  line-height: 1.125rem;
+  font-weight: 500;
+}
+.information3,
+.status4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.status4 {
+  padding: 0 0 var(--padding-9xs-4);
+  font-size: var(--font-size-xs-3);
+  color: var(--neutral-gray-60);
+}
+.information3 {
+  gap: var(--gap-4xs);
+}
+.indicator3,
+.progress-indicatior3 {
+  align-self: stretch;
+  border-radius: var(--br-53xl);
+}
+.indicator3 {
+  flex: 1;
+  position: relative;
+  background-color: var(--status-success);
+}
+.progress-indicatior3 {
+  background-color: var(--neutral-gray-20);
+  height: 0.563rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.info-indicator3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-8xs-5);
+}
+.progress-bar-type-1-complet3 {
+  position: absolute;
+  top: 7.5rem;
+  left: 0.988rem;
+  border-radius: var(--br-4xs);
+  background-color: var(--dark-fill-color-text-primary);
+  width: 23.063rem;
+  height: 5.625rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-8xl);
+  box-sizing: border-box;
+  gap: var(--gap-4xs);
+  text-align: center;
+  font-size: var(--font-size-xl-3);
+  color: var(--neutral-gray-90);
+  font-family: var(--font-lato);
+}
+.dots-icon3 {
+  position: absolute;
+  top: 0.469rem;
+  left: 22.5rem;
+  width: 2.531rem;
+  height: 2.531rem;
+  overflow: hidden;
+}
+.days-left4,
+.project-a3 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.project-a3 {
+  top: 0;
+  left: 6.988rem;
+  font-size: var(--font-size-18xl-5);
+  white-space: pre-wrap;
+  width: 19.456rem;
+  height: 3.188rem;
+}
+.days-left4 {
+  top: calc(50% + 5.3px);
+  left: calc(50% - 71.2px);
+  width: 7.456rem;
+  height: 2.394rem;
+}
+.b15,
+.high4,
+.in-charge4,
+.priority6,
+.svg3,
+.task4 {
+  position: absolute;
+  height: 29.85%;
+  width: 41.21%;
+  top: 0;
+  left: 0.28%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.b15,
+.high4,
+.in-charge4,
+.svg3,
+.task4 {
+  left: 58.83%;
+}
+.b15,
+.in-charge4,
+.svg3,
+.task4 {
+  top: 35.07%;
+}
+.b15,
+.in-charge4,
+.task4 {
+  top: 70.15%;
+}
+.in-charge4,
+.task4 {
+  top: 35.07%;
+  left: 0;
+}
+.task4 {
+  top: 70.15%;
+  left: 0.28%;
+}
+.component-13 {
+  position: absolute;
+  top: 17.488rem;
+  left: calc(50% - 141px);
+  width: 18.094rem;
+  height: 8.019rem;
+}
+.file-download-icon3,
+.outline-pause-icon3,
+.outline-play-icon3 {
+  position: absolute;
+  top: 3.988rem;
+  left: 7.688rem;
+  width: 2.531rem;
+  height: 2.531rem;
+  overflow: hidden;
+}
+.file-download-icon3,
+.outline-play-icon3 {
+  left: 15.75rem;
+}
+.file-download-icon3 {
+  top: 25.031rem;
+  left: 22.363rem;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 7.563rem;
+  left: 7.375rem;
+  width: 26.438rem;
+  height: 27.563rem;
+  cursor: pointer;
+}
+.rectangle-parent15,
+.rectangle-parent16 {
+  position: absolute;
+  top: 7.375rem;
+  left: 35.313rem;
+  width: 26.438rem;
+  height: 27.563rem;
+}
+.rectangle-parent16 {
+  left: 63.25rem;
+}
+.question-mark-cr-fr17 {
+  position: absolute;
+  top: 57.938rem;
+  left: 0.188rem;
+  width: 3.25rem;
+  height: 3.25rem;
+  overflow: hidden;
+}
+.file-add-in-lc11 {
+  position: absolute;
+  top: 5.25rem;
+  left: 0;
+  width: 3.313rem;
+  height: 3.313rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.search-icon11,
+.user-icon11 {
+  position: absolute;
+  width: 3.25rem;
+  height: 3.25rem;
+}
+.search-icon11 {
+  top: 12.688rem;
+  left: 0.063rem;
+  overflow: hidden;
+}
+.user-icon11 {
+  top: 5rem;
+  left: 91.188rem;
+}
+.filter-icon11,
+.settings-icon7 {
+  position: absolute;
+  top: 57.625rem;
+  left: 91.563rem;
+  width: 2.963rem;
+  height: 3.069rem;
+}
+.filter-icon11 {
+  top: 9.438rem;
+  left: 0.188rem;
+  width: 2.688rem;
+  height: 3.063rem;
+  overflow: hidden;
+}
+.dashboard11,
+.finance12,
+.networking11 {
+  position: absolute;
+  top: 0.188rem;
+  left: 14rem;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-roboto-mono);
+  color: var(--dark-fill-color-text-primary);
+}
+.finance12,
+.networking11 {
+  left: 42.813rem;
+  cursor: pointer;
+}
+.networking11 {
+  left: 68.625rem;
+}
+.a1-child6 {
+  position: absolute;
+  top: 3.688rem;
+  left: 14rem;
+  background-color: var(--color-gainsboro-300);
+  width: 13.313rem;
+  height: 0.313rem;
+}
+.a15 {
+  background-color: var(--dark-fill-color-text-primary);
+  overflow: hidden;
+}
+.a1-container,
+.a15,
+.home-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 94.5rem;
+  height: 61.375rem;
+}
+.home-icon11 {
+  width: 3.75rem;
+  height: 3.75rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.group-parent10 {
+  width: 100%;
+  position: relative;
+  height: 61.375rem;
+  text-align: left;
+  font-size: var(--font-size-9xl-1);
+  color: var(--color-black);
+  font-family: var(--font-darker-grotesque);
+}
